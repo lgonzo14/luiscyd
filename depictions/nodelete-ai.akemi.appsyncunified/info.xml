@@ -1,0 +1,27 @@
+<package>
+	<id>nodelete-ai.akemi.appsyncunified</id>
+	<name>AppSync</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>AppSync</shortDescription>
+	<descriptionlist>
+		<description>AppSync</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

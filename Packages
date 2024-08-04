@@ -1,0 +1,14 @@
+Package: com.lgonzo14.FirstRelease
+Version: 1.0
+Section: Tweaks
+Maintainer: lgonzo14 <haters.luise@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: AppSync
+Author: lgonzo14 <haters.luise@gmail.com>
+Depiction: https://github.com/lgonzo14/luiscyd/depictions/?p=nodelete-ai.akemi.appsyncunified
+
